@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "68938ae0-bd94-413b-a96d-2b409f65bd60",
+    "content-length": "183",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a statue of a woman holding a scale on top of a building",
+      "confidence": 0.7012778520584106
+    },
+    "metadata": {
+      "width": 375,
+      "height": 250
+    }
+  }
